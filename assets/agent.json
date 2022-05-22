@@ -1,0 +1,1868 @@
+[
+  {
+    "name": "能天使",
+    "star": "6",
+    "profession": "狙击干员",
+    "stance": "远程位",
+    "tags": [
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "狙击干员",
+      "远程位",
+      "输出"
+    ]
+  },
+  {
+    "name": "推进之王",
+    "star": "6",
+    "profession": "先锋干员",
+    "stance": "近战位",
+    "tags": [
+      "费用回复",
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "先锋干员",
+      "近战位",
+      "费用回复",
+      "输出"
+    ]
+  },
+  {
+    "name": "伊芙利特",
+    "star": "6",
+    "profession": "术师干员",
+    "stance": "远程位",
+    "tags": [
+      "群攻",
+      "削弱"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "术师干员",
+      "远程位",
+      "群攻",
+      "削弱"
+    ]
+  },
+  {
+    "name": "闪灵",
+    "star": "6",
+    "profession": "医疗干员",
+    "stance": "远程位",
+    "tags": [
+      "治疗",
+      "支援"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "医疗干员",
+      "远程位",
+      "治疗",
+      "支援"
+    ]
+  },
+  {
+    "name": "夜莺",
+    "star": "6",
+    "profession": "医疗干员",
+    "stance": "远程位",
+    "tags": [
+      "治疗",
+      "支援"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "医疗干员",
+      "远程位",
+      "治疗",
+      "支援"
+    ]
+  },
+  {
+    "name": "星熊",
+    "star": "6",
+    "profession": "重装干员",
+    "stance": "近战位",
+    "tags": [
+      "防护",
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "重装干员",
+      "近战位",
+      "防护",
+      "输出"
+    ]
+  },
+  {
+    "name": "塞雷娅",
+    "star": "6",
+    "profession": "重装干员",
+    "stance": "近战位",
+    "tags": [
+      "防护",
+      "治疗",
+      "支援"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "重装干员",
+      "近战位",
+      "防护",
+      "治疗",
+      "支援"
+    ]
+  },
+  {
+    "name": "银灰",
+    "star": "6",
+    "profession": "近卫干员",
+    "stance": "近战位",
+    "tags": [
+      "输出",
+      "支援"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "近卫干员",
+      "近战位",
+      "输出",
+      "支援"
+    ]
+  },
+  {
+    "name": "斯卡蒂",
+    "star": "6",
+    "profession": "近卫干员",
+    "stance": "近战位",
+    "tags": [
+      "输出",
+      "生存"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "近卫干员",
+      "近战位",
+      "输出",
+      "生存"
+    ]
+  },
+  {
+    "name": "陈",
+    "star": "6",
+    "profession": "近卫干员",
+    "stance": "近战位",
+    "tags": [
+      "爆发",
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "近卫干员",
+      "近战位",
+      "爆发",
+      "输出"
+    ]
+  },
+  {
+    "name": "黑",
+    "star": "6",
+    "profession": "狙击干员",
+    "stance": "远程位",
+    "tags": [
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "狙击干员",
+      "远程位",
+      "输出"
+    ]
+  },
+  {
+    "name": "赫拉格",
+    "star": "6",
+    "profession": "近卫干员",
+    "stance": "近战位",
+    "tags": [
+      "输出",
+      "生存"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "近卫干员",
+      "近战位",
+      "输出",
+      "生存"
+    ]
+  },
+  {
+    "name": "麦哲伦",
+    "star": "6",
+    "profession": "辅助干员",
+    "stance": "远程位",
+    "tags": [
+      "支援",
+      "减速",
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "辅助干员",
+      "远程位",
+      "支援",
+      "减速",
+      "输出"
+    ]
+  },
+  {
+    "name": "莫斯提马",
+    "star": "6",
+    "profession": "术师干员",
+    "stance": "远程位",
+    "tags": [
+      "群攻",
+      "支援",
+      "控场"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "术师干员",
+      "远程位",
+      "群攻",
+      "支援",
+      "控场"
+    ]
+  },
+  {
+    "name": "煌",
+    "star": "6",
+    "profession": "近卫干员",
+    "stance": "近战位",
+    "tags": [
+      "输出",
+      "生存"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "近卫干员",
+      "近战位",
+      "输出",
+      "生存"
+    ]
+  },
+  {
+    "name": "阿",
+    "star": "6",
+    "profession": "医疗干员",
+    "stance": "远程位",
+    "tags": [
+      "支援",
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "医疗干员",
+      "远程位",
+      "支援",
+      "输出"
+    ]
+  },
+  {
+    "name": "刻俄柏",
+    "star": "6",
+    "profession": "术师干员",
+    "stance": "远程位",
+    "tags": [
+      "输出",
+      "控场"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "术师干员",
+      "远程位",
+      "输出",
+      "控场"
+    ]
+  },
+  {
+    "name": "风笛",
+    "star": "6",
+    "profession": "先锋干员",
+    "stance": "近战位",
+    "tags": [
+      "费用回复",
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "先锋干员",
+      "近战位",
+      "费用回复",
+      "输出"
+    ]
+  },
+  {
+    "name": "白面鸮",
+    "star": "5",
+    "profession": "医疗干员",
+    "stance": "远程位",
+    "tags": [
+      "治疗",
+      "支援"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "医疗干员",
+      "远程位",
+      "治疗",
+      "支援"
+    ]
+  },
+  {
+    "name": "凛冬",
+    "star": "5",
+    "profession": "先锋干员",
+    "stance": "近战位",
+    "tags": [
+      "费用回复",
+      "支援"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "先锋干员",
+      "近战位",
+      "费用回复",
+      "支援"
+    ]
+  },
+  {
+    "name": "德克萨斯",
+    "star": "5",
+    "profession": "先锋干员",
+    "stance": "近战位",
+    "tags": [
+      "费用回复",
+      "控场"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "先锋干员",
+      "近战位",
+      "费用回复",
+      "控场"
+    ]
+  },
+  {
+    "name": "因陀罗",
+    "star": "5",
+    "profession": "近卫干员",
+    "stance": "近战位",
+    "tags": [
+      "输出",
+      "生存"
+    ],
+    "available": "True",
+    "public_only": "True",
+    "all_tags": [
+      "近卫干员",
+      "近战位",
+      "输出",
+      "生存"
+    ]
+  },
+  {
+    "name": "幽灵鲨",
+    "star": "5",
+    "profession": "近卫干员",
+    "stance": "近战位",
+    "tags": [
+      "群攻",
+      "生存"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "近卫干员",
+      "近战位",
+      "群攻",
+      "生存"
+    ]
+  },
+  {
+    "name": "蓝毒",
+    "star": "5",
+    "profession": "狙击干员",
+    "stance": "远程位",
+    "tags": [
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "狙击干员",
+      "远程位",
+      "输出"
+    ]
+  },
+  {
+    "name": "白金",
+    "star": "5",
+    "profession": "狙击干员",
+    "stance": "远程位",
+    "tags": [
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "狙击干员",
+      "远程位",
+      "输出"
+    ]
+  },
+  {
+    "name": "陨星",
+    "star": "5",
+    "profession": "狙击干员",
+    "stance": "远程位",
+    "tags": [
+      "群攻",
+      "削弱"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "狙击干员",
+      "远程位",
+      "群攻",
+      "削弱"
+    ]
+  },
+  {
+    "name": "梅尔",
+    "star": "5",
+    "profession": "辅助干员",
+    "stance": "远程位",
+    "tags": [
+      "召唤",
+      "控场"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "辅助干员",
+      "远程位",
+      "召唤",
+      "控场"
+    ]
+  },
+  {
+    "name": "赫默",
+    "star": "5",
+    "profession": "医疗干员",
+    "stance": "远程位",
+    "tags": [
+      "治疗"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "医疗干员",
+      "远程位",
+      "治疗"
+    ]
+  },
+  {
+    "name": "华法琳",
+    "star": "5",
+    "profession": "医疗干员",
+    "stance": "远程位",
+    "tags": [
+      "治疗",
+      "支援"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "医疗干员",
+      "远程位",
+      "治疗",
+      "支援"
+    ]
+  },
+  {
+    "name": "临光",
+    "star": "5",
+    "profession": "重装干员",
+    "stance": "近战位",
+    "tags": [
+      "防护",
+      "治疗"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "重装干员",
+      "近战位",
+      "防护",
+      "治疗"
+    ]
+  },
+  {
+    "name": "红",
+    "star": "5",
+    "profession": "特种干员",
+    "stance": "近战位",
+    "tags": [
+      "快速复活",
+      "控场"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "特种干员",
+      "近战位",
+      "快速复活",
+      "控场"
+    ]
+  },
+  {
+    "name": "雷蛇",
+    "star": "5",
+    "profession": "重装干员",
+    "stance": "近战位",
+    "tags": [
+      "防护",
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "重装干员",
+      "近战位",
+      "防护",
+      "输出"
+    ]
+  },
+  {
+    "name": "可颂",
+    "star": "5",
+    "profession": "重装干员",
+    "stance": "近战位",
+    "tags": [
+      "防护",
+      "位移"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "重装干员",
+      "近战位",
+      "防护",
+      "位移"
+    ]
+  },
+  {
+    "name": "火神",
+    "star": "5",
+    "profession": "重装干员",
+    "stance": "近战位",
+    "tags": [
+      "生存",
+      "防护",
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "True",
+    "all_tags": [
+      "重装干员",
+      "近战位",
+      "生存",
+      "防护",
+      "输出"
+    ]
+  },
+  {
+    "name": "普罗旺斯",
+    "star": "5",
+    "profession": "狙击干员",
+    "stance": "远程位",
+    "tags": [
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "狙击干员",
+      "远程位",
+      "输出"
+    ]
+  },
+  {
+    "name": "守林人",
+    "star": "5",
+    "profession": "狙击干员",
+    "stance": "远程位",
+    "tags": [
+      "输出",
+      "爆发"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "狙击干员",
+      "远程位",
+      "输出",
+      "爆发"
+    ]
+  },
+  {
+    "name": "崖心",
+    "star": "5",
+    "profession": "特种干员",
+    "stance": "近战位",
+    "tags": [
+      "位移",
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "特种干员",
+      "近战位",
+      "位移",
+      "输出"
+    ]
+  },
+  {
+    "name": "初雪",
+    "star": "5",
+    "profession": "辅助干员",
+    "stance": "远程位",
+    "tags": [
+      "削弱"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "辅助干员",
+      "远程位",
+      "削弱"
+    ]
+  },
+  {
+    "name": "真理",
+    "star": "5",
+    "profession": "辅助干员",
+    "stance": "远程位",
+    "tags": [
+      "减速",
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "辅助干员",
+      "远程位",
+      "减速",
+      "输出"
+    ]
+  },
+  {
+    "name": "狮蝎",
+    "star": "5",
+    "profession": "特种干员",
+    "stance": "近战位",
+    "tags": [
+      "输出",
+      "生存"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "特种干员",
+      "近战位",
+      "输出",
+      "生存"
+    ]
+  },
+  {
+    "name": "食铁兽",
+    "star": "5",
+    "profession": "特种干员",
+    "stance": "近战位",
+    "tags": [
+      "位移",
+      "减速"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "特种干员",
+      "近战位",
+      "位移",
+      "减速"
+    ]
+  },
+  {
+    "name": "夜魔",
+    "star": "5",
+    "profession": "术师干员",
+    "stance": "远程位",
+    "tags": [
+      "输出",
+      "治疗",
+      "减速"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "术师干员",
+      "远程位",
+      "输出",
+      "治疗",
+      "减速"
+    ]
+  },
+  {
+    "name": "诗怀雅",
+    "star": "5",
+    "profession": "近卫干员",
+    "stance": "近战位",
+    "tags": [
+      "输出",
+      "支援"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "近卫干员",
+      "近战位",
+      "输出",
+      "支援"
+    ]
+  },
+  {
+    "name": "格劳克斯",
+    "star": "5",
+    "profession": "辅助干员",
+    "stance": "远程位",
+    "tags": [
+      "减速",
+      "控场"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "辅助干员",
+      "远程位",
+      "减速",
+      "控场"
+    ]
+  },
+  {
+    "name": "星极",
+    "star": "5",
+    "profession": "近卫干员",
+    "stance": "近战位",
+    "tags": [
+      "输出",
+      "防护"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "近卫干员",
+      "近战位",
+      "输出",
+      "防护"
+    ]
+  },
+  {
+    "name": "送葬人",
+    "star": "5",
+    "profession": "狙击干员",
+    "stance": "远程位",
+    "tags": [
+      "群攻"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "狙击干员",
+      "远程位",
+      "群攻"
+    ]
+  },
+  {
+    "name": "槐琥",
+    "star": "5",
+    "profession": "特种干员",
+    "stance": "近战位",
+    "tags": [
+      "快速复活",
+      "削弱"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "特种干员",
+      "近战位",
+      "快速复活",
+      "削弱"
+    ]
+  },
+  {
+    "name": "苇草",
+    "star": "5",
+    "profession": "先锋干员",
+    "stance": "近战位",
+    "tags": [
+      "费用回复",
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "先锋干员",
+      "近战位",
+      "费用回复",
+      "输出"
+    ]
+  },
+  {
+    "name": "布洛卡",
+    "star": "5",
+    "profession": "近卫干员",
+    "stance": "近战位",
+    "tags": [
+      "群攻",
+      "生存"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "近卫干员",
+      "近战位",
+      "群攻",
+      "生存"
+    ]
+  },
+  {
+    "name": "灰喉",
+    "star": "5",
+    "profession": "狙击干员",
+    "stance": "远程位",
+    "tags": [
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "狙击干员",
+      "远程位",
+      "输出"
+    ]
+  },
+  {
+    "name": "吽",
+    "star": "5",
+    "profession": "重装干员",
+    "stance": "近战位",
+    "tags": [
+      "防护",
+      "治疗"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "重装干员",
+      "近战位",
+      "防护",
+      "治疗"
+    ]
+  },
+  {
+    "name": "惊蛰",
+    "star": "5",
+    "profession": "术师干员",
+    "stance": "远程位",
+    "tags": [
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "术师干员",
+      "远程位",
+      "输出"
+    ]
+  },
+  {
+    "name": "慑砂",
+    "star": "5",
+    "profession": "狙击干员",
+    "stance": "远程位",
+    "tags": [
+      "群攻",
+      "削弱"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "狙击干员",
+      "远程位",
+      "群攻",
+      "削弱"
+    ]
+  },
+  {
+    "name": "夜烟",
+    "star": "4",
+    "profession": "术师干员",
+    "stance": "远程位",
+    "tags": [
+      "输出",
+      "削弱"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "术师干员",
+      "远程位",
+      "输出",
+      "削弱"
+    ]
+  },
+  {
+    "name": "远山",
+    "star": "4",
+    "profession": "术师干员",
+    "stance": "远程位",
+    "tags": [
+      "群攻"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "术师干员",
+      "远程位",
+      "群攻"
+    ]
+  },
+  {
+    "name": "杰西卡",
+    "star": "4",
+    "profession": "狙击干员",
+    "stance": "远程位",
+    "tags": [
+      "输出",
+      "生存"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "狙击干员",
+      "远程位",
+      "输出",
+      "生存"
+    ]
+  },
+  {
+    "name": "流星",
+    "star": "4",
+    "profession": "狙击干员",
+    "stance": "远程位",
+    "tags": [
+      "输出",
+      "削弱"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "狙击干员",
+      "远程位",
+      "输出",
+      "削弱"
+    ]
+  },
+  {
+    "name": "白雪",
+    "star": "4",
+    "profession": "狙击干员",
+    "stance": "远程位",
+    "tags": [
+      "群攻",
+      "减速"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "狙击干员",
+      "远程位",
+      "群攻",
+      "减速"
+    ]
+  },
+  {
+    "name": "清道夫",
+    "star": "4",
+    "profession": "先锋干员",
+    "stance": "近战位",
+    "tags": [
+      "费用回复",
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "先锋干员",
+      "近战位",
+      "费用回复",
+      "输出"
+    ]
+  },
+  {
+    "name": "红豆",
+    "star": "4",
+    "profession": "先锋干员",
+    "stance": "近战位",
+    "tags": [
+      "输出",
+      "费用回复"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "先锋干员",
+      "近战位",
+      "输出",
+      "费用回复"
+    ]
+  },
+  {
+    "name": "杜宾",
+    "star": "4",
+    "profession": "近卫干员",
+    "stance": "近战位",
+    "tags": [
+      "输出",
+      "支援"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "近卫干员",
+      "近战位",
+      "输出",
+      "支援"
+    ]
+  },
+  {
+    "name": "缠丸",
+    "star": "4",
+    "profession": "近卫干员",
+    "stance": "近战位",
+    "tags": [
+      "生存",
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "近卫干员",
+      "近战位",
+      "生存",
+      "输出"
+    ]
+  },
+  {
+    "name": "霜叶",
+    "star": "4",
+    "profession": "近卫干员",
+    "stance": "近战位",
+    "tags": [
+      "减速",
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "近卫干员",
+      "近战位",
+      "减速",
+      "输出"
+    ]
+  },
+  {
+    "name": "艾斯黛尔",
+    "star": "4",
+    "profession": "近卫干员",
+    "stance": "近战位",
+    "tags": [
+      "群攻",
+      "生存"
+    ],
+    "available": "True",
+    "public_only": "True",
+    "all_tags": [
+      "近卫干员",
+      "近战位",
+      "群攻",
+      "生存"
+    ]
+  },
+  {
+    "name": "慕斯",
+    "star": "4",
+    "profession": "近卫干员",
+    "stance": "近战位",
+    "tags": [
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "近卫干员",
+      "近战位",
+      "输出"
+    ]
+  },
+  {
+    "name": "砾",
+    "star": "4",
+    "profession": "特种干员",
+    "stance": "近战位",
+    "tags": [
+      "快速复活",
+      "防护"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "特种干员",
+      "近战位",
+      "快速复活",
+      "防护"
+    ]
+  },
+  {
+    "name": "暗索",
+    "star": "4",
+    "profession": "特种干员",
+    "stance": "近战位",
+    "tags": [
+      "位移"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "特种干员",
+      "近战位",
+      "位移"
+    ]
+  },
+  {
+    "name": "末药",
+    "star": "4",
+    "profession": "医疗干员",
+    "stance": "远程位",
+    "tags": [
+      "治疗"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "医疗干员",
+      "远程位",
+      "治疗"
+    ]
+  },
+  {
+    "name": "调香师",
+    "star": "4",
+    "profession": "医疗干员",
+    "stance": "远程位",
+    "tags": [
+      "治疗"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "医疗干员",
+      "远程位",
+      "治疗"
+    ]
+  },
+  {
+    "name": "角峰",
+    "star": "4",
+    "profession": "重装干员",
+    "stance": "近战位",
+    "tags": [
+      "防护"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "重装干员",
+      "近战位",
+      "防护"
+    ]
+  },
+  {
+    "name": "蛇屠箱",
+    "star": "4",
+    "profession": "重装干员",
+    "stance": "近战位",
+    "tags": [
+      "防护"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "重装干员",
+      "近战位",
+      "防护"
+    ]
+  },
+  {
+    "name": "古米",
+    "star": "4",
+    "profession": "重装干员",
+    "stance": "近战位",
+    "tags": [
+      "防护",
+      "治疗"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "重装干员",
+      "近战位",
+      "防护",
+      "治疗"
+    ]
+  },
+  {
+    "name": "地灵",
+    "star": "4",
+    "profession": "辅助干员",
+    "stance": "远程位",
+    "tags": [
+      "减速"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "辅助干员",
+      "远程位",
+      "减速"
+    ]
+  },
+  {
+    "name": "阿消",
+    "star": "4",
+    "profession": "特种干员",
+    "stance": "近战位",
+    "tags": [
+      "位移"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "特种干员",
+      "近战位",
+      "位移"
+    ]
+  },
+  {
+    "name": "猎蜂",
+    "star": "4",
+    "profession": "近卫干员",
+    "stance": "近战位",
+    "tags": [
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "近卫干员",
+      "近战位",
+      "输出"
+    ]
+  },
+  {
+    "name": "格雷伊",
+    "star": "4",
+    "profession": "术师干员",
+    "stance": "远程位",
+    "tags": [
+      "群攻",
+      "减速"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "术师干员",
+      "远程位",
+      "群攻",
+      "减速"
+    ]
+  },
+  {
+    "name": "苏苏洛",
+    "star": "4",
+    "profession": "医疗干员",
+    "stance": "远程位",
+    "tags": [
+      "治疗"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "医疗干员",
+      "远程位",
+      "治疗"
+    ]
+  },
+  {
+    "name": "桃金娘",
+    "star": "4",
+    "profession": "先锋干员",
+    "stance": "近战位",
+    "tags": [
+      "费用回复",
+      "治疗"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "先锋干员",
+      "近战位",
+      "费用回复",
+      "治疗"
+    ]
+  },
+  {
+    "name": "红云",
+    "star": "4",
+    "profession": "狙击干员",
+    "stance": "远程位",
+    "tags": [
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "狙击干员",
+      "远程位",
+      "输出"
+    ]
+  },
+  {
+    "name": "梅",
+    "star": "4",
+    "profession": "狙击干员",
+    "stance": "远程位",
+    "tags": [
+      "输出",
+      "减速"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "狙击干员",
+      "远程位",
+      "输出",
+      "减速"
+    ]
+  },
+  {
+    "name": "安比尔",
+    "star": "4",
+    "profession": "狙击干员",
+    "stance": "远程位",
+    "tags": [
+      "减速"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "狙击干员",
+      "远程位",
+      "减速"
+    ]
+  },
+  {
+    "name": "清流",
+    "star": "4",
+    "profession": "医疗干员",
+    "stance": "远程位",
+    "tags": [
+      "治疗",
+      "支援"
+    ],
+    "available": "True",
+    "public_only": "True",
+    "all_tags": [
+      "医疗干员",
+      "远程位",
+      "治疗",
+      "支援"
+    ]
+  },
+  {
+    "name": "宴",
+    "star": "4",
+    "profession": "近卫干员",
+    "stance": "近战位",
+    "tags": [
+      "输出",
+      "生存"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "近卫干员",
+      "近战位",
+      "输出",
+      "生存"
+    ]
+  },
+  {
+    "name": "芬",
+    "star": "3",
+    "profession": "先锋干员",
+    "stance": "近战位",
+    "tags": [
+      "费用回复"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "先锋干员",
+      "近战位",
+      "费用回复"
+    ]
+  },
+  {
+    "name": "香草",
+    "star": "3",
+    "profession": "先锋干员",
+    "stance": "近战位",
+    "tags": [
+      "费用回复"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "先锋干员",
+      "近战位",
+      "费用回复"
+    ]
+  },
+  {
+    "name": "翎羽",
+    "star": "3",
+    "profession": "先锋干员",
+    "stance": "近战位",
+    "tags": [
+      "输出",
+      "费用回复"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "先锋干员",
+      "近战位",
+      "输出",
+      "费用回复"
+    ]
+  },
+  {
+    "name": "玫兰莎",
+    "star": "3",
+    "profession": "近卫干员",
+    "stance": "近战位",
+    "tags": [
+      "输出",
+      "生存"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "近卫干员",
+      "近战位",
+      "输出",
+      "生存"
+    ]
+  },
+  {
+    "name": "米格鲁",
+    "star": "3",
+    "profession": "重装干员",
+    "stance": "近战位",
+    "tags": [
+      "防护"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "重装干员",
+      "近战位",
+      "防护"
+    ]
+  },
+  {
+    "name": "克洛丝",
+    "star": "3",
+    "profession": "狙击干员",
+    "stance": "远程位",
+    "tags": [
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "狙击干员",
+      "远程位",
+      "输出"
+    ]
+  },
+  {
+    "name": "安德切尔",
+    "star": "3",
+    "profession": "狙击干员",
+    "stance": "远程位",
+    "tags": [
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "True",
+    "all_tags": [
+      "狙击干员",
+      "远程位",
+      "输出"
+    ]
+  },
+  {
+    "name": "炎熔",
+    "star": "3",
+    "profession": "术师干员",
+    "stance": "远程位",
+    "tags": [
+      "群攻"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "术师干员",
+      "远程位",
+      "群攻"
+    ]
+  },
+  {
+    "name": "芙蓉",
+    "star": "3",
+    "profession": "医疗干员",
+    "stance": "远程位",
+    "tags": [
+      "治疗"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "医疗干员",
+      "远程位",
+      "治疗"
+    ]
+  },
+  {
+    "name": "安塞尔",
+    "star": "3",
+    "profession": "医疗干员",
+    "stance": "远程位",
+    "tags": [
+      "治疗"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "医疗干员",
+      "远程位",
+      "治疗"
+    ]
+  },
+  {
+    "name": "史都华德",
+    "star": "3",
+    "profession": "术师干员",
+    "stance": "远程位",
+    "tags": [
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "术师干员",
+      "远程位",
+      "输出"
+    ]
+  },
+  {
+    "name": "梓兰",
+    "star": "3",
+    "profession": "辅助干员",
+    "stance": "远程位",
+    "tags": [
+      "减速"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "辅助干员",
+      "远程位",
+      "减速"
+    ]
+  },
+  {
+    "name": "空爆",
+    "star": "3",
+    "profession": "狙击干员",
+    "stance": "远程位",
+    "tags": [
+      "群攻"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "狙击干员",
+      "远程位",
+      "群攻"
+    ]
+  },
+  {
+    "name": "月见夜",
+    "star": "3",
+    "profession": "近卫干员",
+    "stance": "近战位",
+    "tags": [
+      "输出"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "近卫干员",
+      "近战位",
+      "输出"
+    ]
+  },
+  {
+    "name": "泡普卡",
+    "star": "3",
+    "profession": "近卫干员",
+    "stance": "近战位",
+    "tags": [
+      "群攻",
+      "生存"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "近卫干员",
+      "近战位",
+      "群攻",
+      "生存"
+    ]
+  },
+  {
+    "name": "斑点",
+    "star": "3",
+    "profession": "重装干员",
+    "stance": "近战位",
+    "tags": [
+      "防护",
+      "治疗"
+    ],
+    "available": "True",
+    "public_only": "False",
+    "all_tags": [
+      "重装干员",
+      "近战位",
+      "防护",
+      "治疗"
+    ]
+  },
+  {
+    "name": "夜刀",
+    "star": "2",
+    "profession": "先锋干员",
+    "stance": "近战位",
+    "tags": [
+      "新手"
+    ],
+    "available": "True",
+    "public_only": "True",
+    "all_tags": [
+      "先锋干员",
+      "近战位",
+      "新手"
+    ]
+  },
+  {
+    "name": "黑角",
+    "star": "2",
+    "profession": "重装干员",
+    "stance": "近战位",
+    "tags": [
+      "新手"
+    ],
+    "available": "True",
+    "public_only": "True",
+    "all_tags": [
+      "重装干员",
+      "近战位",
+      "新手"
+    ]
+  },
+  {
+    "name": "巡林者",
+    "star": "2",
+    "profession": "狙击干员",
+    "stance": "远程位",
+    "tags": [
+      "新手"
+    ],
+    "available": "True",
+    "public_only": "True",
+    "all_tags": [
+      "狙击干员",
+      "远程位",
+      "新手"
+    ]
+  },
+  {
+    "name": "杜林",
+    "star": "2",
+    "profession": "术师干员",
+    "stance": "远程位",
+    "tags": [
+      "新手"
+    ],
+    "available": "True",
+    "public_only": "True",
+    "all_tags": [
+      "术师干员",
+      "远程位",
+      "新手"
+    ]
+  },
+  {
+    "name": "12F",
+    "star": "2",
+    "profession": "术师干员",
+    "stance": "远程位",
+    "tags": [
+      "新手"
+    ],
+    "available": "True",
+    "public_only": "True",
+    "all_tags": [
+      "术师干员",
+      "远程位",
+      "新手"
+    ]
+  },
+  {
+    "name": "Lancet-2",
+    "star": "1",
+    "profession": "医疗干员",
+    "stance": "远程位",
+    "tags": [
+      "治疗"
+    ],
+    "available": "True",
+    "public_only": "True",
+    "all_tags": [
+      "医疗干员",
+      "远程位",
+      "治疗"
+    ]
+  },
+  {
+    "name": "Castle-3",
+    "star": "1",
+    "profession": "近卫干员",
+    "stance": "近战位",
+    "tags": [
+      "支援"
+    ],
+    "available": "True",
+    "public_only": "True",
+    "all_tags": [
+      "近卫干员",
+      "近战位",
+      "支援"
+    ]
+  },
+  {
+    "name": "THRM-EX",
+    "star": "1",
+    "profession": "近卫干员",
+    "stance": "近战位",
+    "tags": [
+      "爆发"
+    ],
+    "available": "True",
+    "public_only": "True",
+    "all_tags": [
+      "近卫干员",
+      "近战位",
+      "爆发"
+    ]
+  },
+  {
+    "name": "正义骑士号",
+    "star": "1",
+    "profession": "狙击干员",
+    "stance": "远程位",
+    "tags": [
+      "支援"
+    ],
+    "available": "True",
+    "public_only": "True",
+    "all_tags": [
+      "狙击干员",
+      "远程位",
+      "支援"
+    ]
+  }
+]
